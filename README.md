@@ -27,13 +27,13 @@ This is a Command Line Java program and runs in CLI (Command Line Interface) App
 
 ## How to Run
 
-- Download and install [Java SE Development Kit (JDK)](URL) for free from [Oracle](https://www.oracle.com) (recommended: JDK version 19)
+- Download and install [Java SE Development Kit (JDK)](https://www.oracle.com/eg/java/technologies/downloads/) for free from [Oracle](https://www.oracle.com) (recommended: JDK version 19)
 - Download the source code from this repository in zip format.
 - Extract the zip file using an Extractor (such as WinRAR, 7-Zip etc.)
-- Alternatively, you can clone this repository and get the source code of this project if you have [Git](url) installed on your PC. Type this command in your terminal and press ***Enter:***
+- Alternatively, you can clone this repository and get the source code of this project if you have [Git](https://git-scm.com) installed on your PC. Type this command in your terminal and press ***Enter:***
 
 ```console
-git clone URL
+git clone https://github.com/Cyruskripsin/Client-Server-Chat-Room-using-Java-Server-Socket.git
 ```
 
 - Open 3 different windows/sessions of the command Line Application of your choice on your PC.
@@ -102,7 +102,7 @@ This is a step by step guide on how to setup your Java Environment.
 
 ### Installing Java SE Development Kit (JDK)
 
-- Download and install [Java SE Development KIt (JDK)](URL) for free from [Oracle](https://www.oracle.com)
+- Download and install [Java SE Development KIt (JDK)](https://www.oracle.com/eg/java/technologies/downloads/) for free from [Oracle](https://www.oracle.com)
 
 ## Setup for Windows
 
@@ -146,7 +146,7 @@ IntelliJ IDEA, NetBeans and Eclipse are popular IDEs for building Java projects 
 
 #### How to Setup Java Environment in Visual Studio Code (VS Code)
 
-- Download and install [Visual Studio Code](URL) for Windows, Mac or Linux using this download link: <https://URL>
+- Download and install [Visual Studio Code](https://code.visualstudio.com/download) for Windows, Mac or Linux using this download link: <https://code.visualstudio.com/download>
 - Launch VS Code and go to marketplace. You can use `ctrl+shift+x` shortcut on Windows and Linux, `command+shift+x` on Mac
 - Search and install: `Extension Pack for Java` in visual Studio Code Marketplace.
 - The Java extension will install the extensions below automatically:
