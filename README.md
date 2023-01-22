@@ -5,7 +5,7 @@ A chat room with one central server that allows you to connect multiple clients 
 This is a Command Line Java program and runs in CLI (Command Line Interface) Applications such as: Command Prompt, Powershell, Terminal, Git Bash etc.
 
 <p align="center">
-<img src="./assets/videos/Client-Server-Connection.gif">
+<img src="./assets/gif/Client-Server-Connection.gif">
 </p>
 
 
